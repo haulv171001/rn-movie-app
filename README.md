@@ -69,9 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-
-
-
+git clone https://github.com/haulv171001/rn-movie-app.git
+cd rn-movie-app
 ```
 
 **Installation**
@@ -79,9 +78,7 @@ Make sure you have the following installed on your machine:
 Install the project dependencies using npm:
 
 ```bash
-
 npm install
-
 ```
 
 **Set Up Environment Variables**
